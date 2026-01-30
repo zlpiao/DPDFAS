@@ -11,7 +11,7 @@
 
 
 ##  Updates :
-- 30-01-2026: Inference code has been released, on Baidu Netdisk, share the optimal models based .
+- 30-01-2026: The inference code has been released, and the optimal models under the fixed-modal scenarios (Protocol 1) are available on Baidu Netdisk.
 - The training code will be made publicly available on GitHub.
 
 
