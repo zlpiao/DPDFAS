@@ -2,6 +2,7 @@
 DPD: Regularized Text Prompts and Expert-Driven  Visual Encoding for Multimodal Face Anti-Spoofing
 
 File Shared via Cloud Storage: 
+
 best_model_run_w.pth
 Link: https://pan.baidu.com/s/1Sc-7M0hhyKtqKnUcJuKJaw?pwd=k7at 提取码: k7at 
 
