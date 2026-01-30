@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center"><strong>DPD: Regularized Text Prompts and Expert-Driven  Visual Encoding for Multimodal Face Anti-Spoofing</strong></h2>
+  <h2 align="center"><strong>DPD: Expert-Driven Visual Encoding and Spoof-Aware Text Prompting for Multimodal Face Anti-Spoofing</strong></h2>
 
 </p>
 
