@@ -1,6 +1,5 @@
 # =========================================================
 # infer.py
-# Inference-only code for multimodal FAS (review version)
 # =========================================================
 
 import os
