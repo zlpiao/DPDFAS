@@ -1,7 +1,33 @@
-# DPDFAS
-DPD: Regularized Text Prompts and Expert-Driven  Visual Encoding for Multimodal Face Anti-Spoofing
+<p align="center">
 
-File Shared via Cloud Storage: 
+  <h2 align="center"><strong>DPD: Regularized Text Prompts and Expert-Driven  Visual Encoding for Multimodal Face Anti-Spoofing</strong></h2>
+
+</p>
+
+
+<p align="center">
+</p>
+
+
+
+##  Updates :
+- 30-01-2026: Inference code has been released, on Baidu Netdisk, share the optimal models based .
+- The training code will be made publicly available on GitHub.
+
+
+
+
+## Instruction for code usage :
+
+### Setup
+- Get Code
+```shell
+ git clone https://github.com/zlpiao/DPDFAS.git
+```
+
+
+
+## File Shared via Cloud Storage: 
 
 best_model_run_w.pth
 Link: https://pan.baidu.com/s/1Sc-7M0hhyKtqKnUcJuKJaw?pwd=k7at 提取码: k7at 
