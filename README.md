@@ -16,31 +16,35 @@ best_model_run_s.pth
 Link: https://pan.baidu.com/s/17E6wurmLFV75fUVYNeFk7Q?pwd=wjkw 提取码: wjkw 
 
 
-Inference
+## Inference
+```shell
 python infer.py \
   --data_root /data \
   --list_dir ./lists \
   --test_domain w \
   --model_path best_model_run_w.pth
+```
 
-
+```shell
   python infer.py \
   --data_root /data \
   --list_dir ./lists \
   --test_domain p \
   --model_path best_model_run_p.pth
+```
 
-
+```shell
     python infer.py \
   --data_root /data \
   --list_dir ./lists \
   --test_domain c \
   --model_path best_model_run_c.pth
+```
 
-
-
+```shell
     python infer.py \
   --data_root /data \
   --list_dir ./lists \
   --test_domain s \
   --model_path best_model_run_s.pth
+```
